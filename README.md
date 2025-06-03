@@ -36,7 +36,8 @@ A full-stack food ordering application built with the **MERN** stack (MongoDB, E
 
 ## 🌍 Live Demo
 
-🔗 [View Live Project](https://foodorder-fawn-kappa.vercel.app/menu)
+🔗 [View Live Project](https://foodorder-fawn-kappa.vercel.app/)
+
 
 ---
 
